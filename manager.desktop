@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Manager
+Exec=python /home/pi/pipresents/pp_manager.py
